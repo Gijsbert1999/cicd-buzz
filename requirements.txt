@@ -3,7 +3,7 @@ click
 Flask
 gunicorn
 importlib-metadata
-itdangerous
+itsdangerous
 Jinja2
 MarkupSafe
 more-itertools
