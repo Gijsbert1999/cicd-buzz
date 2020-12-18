@@ -1,5 +1,6 @@
 from buzz import generator
 
+
 def test_sample_single_word():
     woorden_tuple = ('foo', 'bar', 'foobar')
     word = generator.sample(woorden_tuple)
